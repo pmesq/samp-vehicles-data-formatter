@@ -154,8 +154,8 @@
 553,Nevada,Airplane,None,nevada
 554,Yosemite,Industrial,None,yosemite
 555,Windsor,Convertibles,Transfender,windsor
-556,Monster "A",Off Road,None,monstera
-557,Monster "B",Off Road,None,monsterb
+556,Monster A,Off Road,None,monstera
+557,Monster B,Off Road,None,monsterb
 558,Uranus,Sport Vehicles,Wheel Arch Angels,uranus
 559,Jester,Sport Vehicles,Wheel Arch Angels,jester
 560,Sultan,Saloons,Wheel Arch Angels,sultan
@@ -204,8 +204,8 @@
 603,Phoenix,Sport Vehicles,Transfender,phoenix
 604,Glendale Shit,Saloons,None,glenshit
 605,Sadler Shit,Industrial,None,sadlshit
-606,Baggage Trailer "A",Trailers,None,bagboxa
-607,Baggage Trailer "B",Trailers,None,bagboxb
+606,Baggage Trailer A,Trailers,None,bagboxa
+607,Baggage Trailer B,Trailers,None,bagboxb
 608,Tug Stairs Trailer,Trailers,None,tugstair
 609,Boxville,Industrial,None,boxburg
 610,Farm Trailer,Trailers,None,farmtr1

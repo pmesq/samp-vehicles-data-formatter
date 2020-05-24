@@ -19,11 +19,10 @@ const int categoryStartIndex = 17;
 const int modificationsStartIndex = 22;
 const int modelNameStartIndex = 19;
 
-string formatQuotes(const string str) {
+string removeQuotes(const string str) {
 	string resultedStr;
 	for (const char c : str) {
-		if (c == '\"') resultedStr.push_back('\\');
-		resultedStr.push_back(c);
+		if (c != '\"') resultedStr.push_back(c);
 	}
 	return resultedStr;
 }
@@ -71,7 +70,7 @@ void printVehicleListAsJSON(const list<Vehicle> vehicleList) {
 		if (first) first = false;
 		else fs << ',';
 		fs << "\n\t{\n\t\t\"vehicleModelId\": " << vehicle.vehicleModelId << ",\n"
-				<< "\t\t\"vehicleName\": \"" << formatQuotes(vehicle.vehicleName) << "\",\n"
+				<< "\t\t\"vehicleName\": \"" << removeQuotes(vehicle.vehicleName) << "\",\n"
 				<< "\t\t\"category\": \"" << vehicle.category << "\",\n"
 				<< "\t\t\"modifications\": \"" << vehicle.modifications << "\",\n"
 				<< "\t\t\"modelName\": \"" << vehicle.modelName << "\"\n\t}";
@@ -85,7 +84,7 @@ void printVehicleListAsYML(const list<Vehicle> vehicleList) {
 	fs.open("output/vehicles.yml", fstream::out);
 	for (const Vehicle vehicle : vehicleList) {
 		fs << "-\n\tvehicleModelId: " << vehicle.vehicleModelId << "\n"
-				<< "\tvehicleName: " << vehicle.vehicleName << "\n"
+				<< "\tvehicleName: " << removeQuotes(vehicle.vehicleName) << "\n"
 				<< "\tcategory: " << vehicle.category << "\n"
 				<< "\tmodifications: " << vehicle.modifications << "\n"
 				<< "\tmodelName: " << vehicle.modelName << "\n";
@@ -100,7 +99,7 @@ void printVehicleListAsXML(const list<Vehicle> vehicleList) {
 	for (const Vehicle vehicle : vehicleList) {
 		fs << "\t<vehicle>\n"
 				<< "\t\t<vehicle-model-id>" << vehicle.vehicleModelId << "</vehicle-model-id>\n"
-				<< "\t\t<vehicle-name>" << vehicle.vehicleName << "</vehicle-name>\n"
+				<< "\t\t<vehicle-name>" << removeQuotes(vehicle.vehicleName) << "</vehicle-name>\n"
 				<< "\t\t<category>" << vehicle.category << "</category>\n"
 				<< "\t\t<modifications>" << vehicle.modifications << "</modifications>\n"
 				<< "\t\t<model-name>" << vehicle.modelName << "</model-name>\n"
@@ -115,7 +114,7 @@ void printVehicleListAsCSV(const list<Vehicle> vehicleList) {
 	fs.open("output/vehicles.csv", fstream::out);
 	for (const Vehicle vehicle : vehicleList) {
 		fs << vehicle.vehicleModelId << ','
-				<< vehicle.vehicleName << ','
+				<< removeQuotes(vehicle.vehicleName) << ','
 				<< vehicle.category << ','
 				<< vehicle.modifications << ','
 				<< vehicle.modelName << endl;

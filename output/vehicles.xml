@@ -1093,14 +1093,14 @@
 	</vehicle>
 	<vehicle>
 		<vehicle-model-id>556</vehicle-model-id>
-		<vehicle-name>Monster "A"</vehicle-name>
+		<vehicle-name>Monster A</vehicle-name>
 		<category>Off Road</category>
 		<modifications>None</modifications>
 		<model-name>monstera</model-name>
 	</vehicle>
 	<vehicle>
 		<vehicle-model-id>557</vehicle-model-id>
-		<vehicle-name>Monster "B"</vehicle-name>
+		<vehicle-name>Monster B</vehicle-name>
 		<category>Off Road</category>
 		<modifications>None</modifications>
 		<model-name>monsterb</model-name>
@@ -1443,14 +1443,14 @@
 	</vehicle>
 	<vehicle>
 		<vehicle-model-id>606</vehicle-model-id>
-		<vehicle-name>Baggage Trailer "A"</vehicle-name>
+		<vehicle-name>Baggage Trailer A</vehicle-name>
 		<category>Trailers</category>
 		<modifications>None</modifications>
 		<model-name>bagboxa</model-name>
 	</vehicle>
 	<vehicle>
 		<vehicle-model-id>607</vehicle-model-id>
-		<vehicle-name>Baggage Trailer "B"</vehicle-name>
+		<vehicle-name>Baggage Trailer B</vehicle-name>
 		<category>Trailers</category>
 		<modifications>None</modifications>
 		<model-name>bagboxb</model-name>

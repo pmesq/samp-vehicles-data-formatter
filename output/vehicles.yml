@@ -936,13 +936,13 @@
 	modelName: windsor
 -
 	vehicleModelId: 556
-	vehicleName: Monster "A"
+	vehicleName: Monster A
 	category: Off Road
 	modifications: None
 	modelName: monstera
 -
 	vehicleModelId: 557
-	vehicleName: Monster "B"
+	vehicleName: Monster B
 	category: Off Road
 	modifications: None
 	modelName: monsterb
@@ -1236,13 +1236,13 @@
 	modelName: sadlshit
 -
 	vehicleModelId: 606
-	vehicleName: Baggage Trailer "A"
+	vehicleName: Baggage Trailer A
 	category: Trailers
 	modifications: None
 	modelName: bagboxa
 -
 	vehicleModelId: 607
-	vehicleName: Baggage Trailer "B"
+	vehicleName: Baggage Trailer B
 	category: Trailers
 	modifications: None
 	modelName: bagboxb
