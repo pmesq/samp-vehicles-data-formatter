@@ -1,0 +1,1486 @@
+<vehicles>
+	<vehicle>
+		<vehicle-model-id>400</vehicle-model-id>
+		<vehicle-name>Landstalker</vehicle-name>
+		<category>Off Road</category>
+		<modifications>Transfender</modifications>
+		<model-name>landstal</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>401</vehicle-model-id>
+		<vehicle-name>Bravura</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>bravura</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>402</vehicle-model-id>
+		<vehicle-name>Buffalo</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>buffalo</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>403</vehicle-model-id>
+		<vehicle-name>Linerunner</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>linerun</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>404</vehicle-model-id>
+		<vehicle-name>Perennial</vehicle-name>
+		<category>Station Wagons</category>
+		<modifications>Transfender</modifications>
+		<model-name>peren</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>405</vehicle-model-id>
+		<vehicle-name>Sentinel</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>sentinel</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>406</vehicle-model-id>
+		<vehicle-name>Dumper</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>dumper</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>407</vehicle-model-id>
+		<vehicle-name>Firetruck</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>firetruk</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>408</vehicle-model-id>
+		<vehicle-name>Trashmaster</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>trash</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>409</vehicle-model-id>
+		<vehicle-name>Stretch</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>stretch</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>410</vehicle-model-id>
+		<vehicle-name>Manana</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>manana</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>411</vehicle-model-id>
+		<vehicle-name>Infernus</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>infernus</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>412</vehicle-model-id>
+		<vehicle-name>Voodoo</vehicle-name>
+		<category>Lowriders</category>
+		<modifications>Loco Low Co</modifications>
+		<model-name>voodoo</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>413</vehicle-model-id>
+		<vehicle-name>Pony</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>pony</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>414</vehicle-model-id>
+		<vehicle-name>Mule</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>mule</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>415</vehicle-model-id>
+		<vehicle-name>Cheetah</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>cheetah</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>416</vehicle-model-id>
+		<vehicle-name>Ambulance</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>ambulan</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>417</vehicle-model-id>
+		<vehicle-name>Leviathan</vehicle-name>
+		<category>Helicopters</category>
+		<modifications>None</modifications>
+		<model-name>leviathn</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>418</vehicle-model-id>
+		<vehicle-name>Moonbeam</vehicle-name>
+		<category>Station Wagons</category>
+		<modifications>Transfender</modifications>
+		<model-name>moonbeam</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>419</vehicle-model-id>
+		<vehicle-name>Esperanto</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>esperant</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>420</vehicle-model-id>
+		<vehicle-name>Taxi</vehicle-name>
+		<category>Public Service</category>
+		<modifications>Transfender</modifications>
+		<model-name>taxi</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>421</vehicle-model-id>
+		<vehicle-name>Washington</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>washing</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>422</vehicle-model-id>
+		<vehicle-name>Bobcat</vehicle-name>
+		<category>Industrial</category>
+		<modifications>Transfender</modifications>
+		<model-name>bobcat</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>423</vehicle-model-id>
+		<vehicle-name>Mr. Whoopee</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>mrwhoop</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>424</vehicle-model-id>
+		<vehicle-name>BF Injection</vehicle-name>
+		<category>Off Road</category>
+		<modifications>None</modifications>
+		<model-name>bfinject</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>425</vehicle-model-id>
+		<vehicle-name>Hunter</vehicle-name>
+		<category>Helicopters</category>
+		<modifications>None</modifications>
+		<model-name>hunter</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>426</vehicle-model-id>
+		<vehicle-name>Premier</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>premier</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>427</vehicle-model-id>
+		<vehicle-name>Enforcer</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>enforcer</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>428</vehicle-model-id>
+		<vehicle-name>Securicar</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>securica</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>429</vehicle-model-id>
+		<vehicle-name>Banshee</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>banshee</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>430</vehicle-model-id>
+		<vehicle-name>Predator</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>predator</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>431</vehicle-model-id>
+		<vehicle-name>Bus</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>bus</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>432</vehicle-model-id>
+		<vehicle-name>Rhino</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>rhino</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>433</vehicle-model-id>
+		<vehicle-name>Barracks</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>barracks</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>434</vehicle-model-id>
+		<vehicle-name>Hotknife</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>hotknife</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>435</vehicle-model-id>
+		<vehicle-name>Article Trailer</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>artict1</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>436</vehicle-model-id>
+		<vehicle-name>Previon</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>previon</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>437</vehicle-model-id>
+		<vehicle-name>Coach</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>coach</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>438</vehicle-model-id>
+		<vehicle-name>Cabbie</vehicle-name>
+		<category>Public Service</category>
+		<modifications>Transfender</modifications>
+		<model-name>cabbie</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>439</vehicle-model-id>
+		<vehicle-name>Stallion</vehicle-name>
+		<category>Convertibles</category>
+		<modifications>Transfender</modifications>
+		<model-name>stallion</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>440</vehicle-model-id>
+		<vehicle-name>Rumpo</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>rumpo</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>441</vehicle-model-id>
+		<vehicle-name>RC Bandit</vehicle-name>
+		<category>RC Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>rcbandit</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>442</vehicle-model-id>
+		<vehicle-name>Romero</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>romero</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>443</vehicle-model-id>
+		<vehicle-name>Packer</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>packer</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>444</vehicle-model-id>
+		<vehicle-name>Monster</vehicle-name>
+		<category>Off Road</category>
+		<modifications>None</modifications>
+		<model-name>monster</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>445</vehicle-model-id>
+		<vehicle-name>Admiral</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>admiral</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>446</vehicle-model-id>
+		<vehicle-name>Squallo</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>squalo</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>447</vehicle-model-id>
+		<vehicle-name>Seasparrow</vehicle-name>
+		<category>Helicopters</category>
+		<modifications>None</modifications>
+		<model-name>seaspar</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>448</vehicle-model-id>
+		<vehicle-name>Pizzaboy</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>pizzaboy</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>449</vehicle-model-id>
+		<vehicle-name>Tram</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>tram</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>450</vehicle-model-id>
+		<vehicle-name>Article Trailer 2</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>artict2</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>451</vehicle-model-id>
+		<vehicle-name>Turismo</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>turismo</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>452</vehicle-model-id>
+		<vehicle-name>Speeder</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>speeder</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>453</vehicle-model-id>
+		<vehicle-name>Reefer</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>reefer</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>454</vehicle-model-id>
+		<vehicle-name>Tropic</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>tropic</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>455</vehicle-model-id>
+		<vehicle-name>Flatbed</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>flatbed</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>456</vehicle-model-id>
+		<vehicle-name>Yankee</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>yankee</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>457</vehicle-model-id>
+		<vehicle-name>Caddy</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>caddy</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>458</vehicle-model-id>
+		<vehicle-name>Solair</vehicle-name>
+		<category>Station Wagons</category>
+		<modifications>Transfender</modifications>
+		<model-name>solair</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>459</vehicle-model-id>
+		<vehicle-name>Topfun Van (Berkley's RC)</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>topfun</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>460</vehicle-model-id>
+		<vehicle-name>Skimmer</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>skimmer</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>461</vehicle-model-id>
+		<vehicle-name>PCJ-600</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>pcj600</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>462</vehicle-model-id>
+		<vehicle-name>Faggio</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>faggio</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>463</vehicle-model-id>
+		<vehicle-name>Freeway</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>freeway</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>464</vehicle-model-id>
+		<vehicle-name>RC Baron</vehicle-name>
+		<category>RC Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>rcbaron</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>465</vehicle-model-id>
+		<vehicle-name>RC Raider</vehicle-name>
+		<category>RC Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>rcraider</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>466</vehicle-model-id>
+		<vehicle-name>Glendale</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>glendale</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>467</vehicle-model-id>
+		<vehicle-name>Oceanic</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>oceanic</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>468</vehicle-model-id>
+		<vehicle-name>Sanchez</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>sanchez</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>469</vehicle-model-id>
+		<vehicle-name>Sparrow</vehicle-name>
+		<category>Helicopters</category>
+		<modifications>None</modifications>
+		<model-name>sparrow</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>470</vehicle-model-id>
+		<vehicle-name>Patriot</vehicle-name>
+		<category>Off Road</category>
+		<modifications>None</modifications>
+		<model-name>patriot</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>471</vehicle-model-id>
+		<vehicle-name>Quad</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>quad</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>472</vehicle-model-id>
+		<vehicle-name>Coastguard</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>coastg</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>473</vehicle-model-id>
+		<vehicle-name>Dinghy</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>dinghy</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>474</vehicle-model-id>
+		<vehicle-name>Hermes</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>hermes</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>475</vehicle-model-id>
+		<vehicle-name>Sabre</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>sabre</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>476</vehicle-model-id>
+		<vehicle-name>Rustler</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>rustler</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>477</vehicle-model-id>
+		<vehicle-name>ZR-350</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>zr350</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>478</vehicle-model-id>
+		<vehicle-name>Walton</vehicle-name>
+		<category>Industrial</category>
+		<modifications>Transfender</modifications>
+		<model-name>walton</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>479</vehicle-model-id>
+		<vehicle-name>Regina</vehicle-name>
+		<category>Station Wagons</category>
+		<modifications>Transfender</modifications>
+		<model-name>regina</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>480</vehicle-model-id>
+		<vehicle-name>Comet</vehicle-name>
+		<category>Convertibles</category>
+		<modifications>Transfender</modifications>
+		<model-name>comet</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>481</vehicle-model-id>
+		<vehicle-name>BMX</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>bmx</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>482</vehicle-model-id>
+		<vehicle-name>Burrito</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>burrito</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>483</vehicle-model-id>
+		<vehicle-name>Camper</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>camper</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>484</vehicle-model-id>
+		<vehicle-name>Marquis</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>marquis</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>485</vehicle-model-id>
+		<vehicle-name>Baggage</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>baggage</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>486</vehicle-model-id>
+		<vehicle-name>Dozer</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>dozer</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>487</vehicle-model-id>
+		<vehicle-name>Maverick</vehicle-name>
+		<category>Helicopters</category>
+		<modifications>None</modifications>
+		<model-name>maverick</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>488</vehicle-model-id>
+		<vehicle-name>SAN News Maverick</vehicle-name>
+		<category>Helicopters</category>
+		<modifications>None</modifications>
+		<model-name>vcnmav</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>489</vehicle-model-id>
+		<vehicle-name>Rancher</vehicle-name>
+		<category>Off Road</category>
+		<modifications>Transfender</modifications>
+		<model-name>rancher</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>490</vehicle-model-id>
+		<vehicle-name>FBI Rancher</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>fbiranch</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>491</vehicle-model-id>
+		<vehicle-name>Virgo</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>virgo</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>492</vehicle-model-id>
+		<vehicle-name>Greenwood</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>greenwoo</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>493</vehicle-model-id>
+		<vehicle-name>Jetmax</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>jetmax</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>494</vehicle-model-id>
+		<vehicle-name>Hotring Racer</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>hotring</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>495</vehicle-model-id>
+		<vehicle-name>Sandking</vehicle-name>
+		<category>Off Road</category>
+		<modifications>None</modifications>
+		<model-name>sandking</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>496</vehicle-model-id>
+		<vehicle-name>Blista Compact</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>blistac</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>497</vehicle-model-id>
+		<vehicle-name>Police Maverick</vehicle-name>
+		<category>Helicopters</category>
+		<modifications>None</modifications>
+		<model-name>polmav</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>498</vehicle-model-id>
+		<vehicle-name>Boxville</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>boxville</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>499</vehicle-model-id>
+		<vehicle-name>Benson</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>benson</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>500</vehicle-model-id>
+		<vehicle-name>Mesa</vehicle-name>
+		<category>Off Road</category>
+		<modifications>Transfender</modifications>
+		<model-name>mesa</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>501</vehicle-model-id>
+		<vehicle-name>RC Goblin</vehicle-name>
+		<category>RC Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>rcgoblin</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>502</vehicle-model-id>
+		<vehicle-name>Hotring Racer A</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>hotrina</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>503</vehicle-model-id>
+		<vehicle-name>Hotring Racer B</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>hotrinb</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>504</vehicle-model-id>
+		<vehicle-name>Bloodring Banger</vehicle-name>
+		<category>Saloons</category>
+		<modifications>None</modifications>
+		<model-name>bloodra / bloodrb</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>505</vehicle-model-id>
+		<vehicle-name>Rancher Lure</vehicle-name>
+		<category>Off Road</category>
+		<modifications>None</modifications>
+		<model-name>rnchlure</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>506</vehicle-model-id>
+		<vehicle-name>Super GT</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>supergt</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>507</vehicle-model-id>
+		<vehicle-name>Elegant</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>elegant</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>508</vehicle-model-id>
+		<vehicle-name>Journey</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>journey</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>509</vehicle-model-id>
+		<vehicle-name>Bike</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>bike</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>510</vehicle-model-id>
+		<vehicle-name>Mountain Bike</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>mtbike</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>511</vehicle-model-id>
+		<vehicle-name>Beagle</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>beagle</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>512</vehicle-model-id>
+		<vehicle-name>Cropduster</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>cropdust</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>513</vehicle-model-id>
+		<vehicle-name>Stuntplane</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>stunt</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>514</vehicle-model-id>
+		<vehicle-name>Tanker</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>petro</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>515</vehicle-model-id>
+		<vehicle-name>Roadtrain</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>rdtrain</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>516</vehicle-model-id>
+		<vehicle-name>Nebula</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>nebula</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>517</vehicle-model-id>
+		<vehicle-name>Majestic</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>majestic</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>518</vehicle-model-id>
+		<vehicle-name>Buccaneer</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>buccanee</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>519</vehicle-model-id>
+		<vehicle-name>Shamal</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>shamal</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>520</vehicle-model-id>
+		<vehicle-name>Hydra</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>hydra</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>521</vehicle-model-id>
+		<vehicle-name>FCR-900</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>fcr900</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>522</vehicle-model-id>
+		<vehicle-name>NRG-500</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>nrg500</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>523</vehicle-model-id>
+		<vehicle-name>HPV1000</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>copbike</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>524</vehicle-model-id>
+		<vehicle-name>Cement Truck</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>cement</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>525</vehicle-model-id>
+		<vehicle-name>Towtruck</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>towtruck</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>526</vehicle-model-id>
+		<vehicle-name>Fortune</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>fortune</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>527</vehicle-model-id>
+		<vehicle-name>Cadrona</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>cadrona</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>528</vehicle-model-id>
+		<vehicle-name>FBI Truck</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>fbitruck</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>529</vehicle-model-id>
+		<vehicle-name>Willard</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>willard</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>530</vehicle-model-id>
+		<vehicle-name>Forklift</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>forklift</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>531</vehicle-model-id>
+		<vehicle-name>Tractor</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>tractor</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>532</vehicle-model-id>
+		<vehicle-name>Combine Harvester</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>combine</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>533</vehicle-model-id>
+		<vehicle-name>Feltzer</vehicle-name>
+		<category>Convertibles</category>
+		<modifications>Transfender</modifications>
+		<model-name>feltzer</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>534</vehicle-model-id>
+		<vehicle-name>Remington</vehicle-name>
+		<category>Lowriders</category>
+		<modifications>Loco Low Co</modifications>
+		<model-name>remingtn</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>535</vehicle-model-id>
+		<vehicle-name>Slamvan</vehicle-name>
+		<category>Lowriders</category>
+		<modifications>Loco Low Co</modifications>
+		<model-name>slamvan</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>536</vehicle-model-id>
+		<vehicle-name>Blade</vehicle-name>
+		<category>Lowriders</category>
+		<modifications>Loco Low Co</modifications>
+		<model-name>blade</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>537</vehicle-model-id>
+		<vehicle-name>Freight (Train)</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>freight</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>538</vehicle-model-id>
+		<vehicle-name>Brownstreak (Train)</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>streak</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>539</vehicle-model-id>
+		<vehicle-name>Vortex</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>vortex</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>540</vehicle-model-id>
+		<vehicle-name>Vincent</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>vincent</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>541</vehicle-model-id>
+		<vehicle-name>Bullet</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>bullet</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>542</vehicle-model-id>
+		<vehicle-name>Clover</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>clover</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>543</vehicle-model-id>
+		<vehicle-name>Sadler</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>sadler</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>544</vehicle-model-id>
+		<vehicle-name>Firetruck LA</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>firela</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>545</vehicle-model-id>
+		<vehicle-name>Hustler</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>hustler</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>546</vehicle-model-id>
+		<vehicle-name>Intruder</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>intruder</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>547</vehicle-model-id>
+		<vehicle-name>Primo</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>primo</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>548</vehicle-model-id>
+		<vehicle-name>Cargobob</vehicle-name>
+		<category>Helicopters</category>
+		<modifications>None</modifications>
+		<model-name>cargobob</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>549</vehicle-model-id>
+		<vehicle-name>Tampa</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>tampa</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>550</vehicle-model-id>
+		<vehicle-name>Sunrise</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>sunrise</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>551</vehicle-model-id>
+		<vehicle-name>Merit</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>merit</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>552</vehicle-model-id>
+		<vehicle-name>Utility Van</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>utility</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>553</vehicle-model-id>
+		<vehicle-name>Nevada</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>nevada</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>554</vehicle-model-id>
+		<vehicle-name>Yosemite</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>yosemite</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>555</vehicle-model-id>
+		<vehicle-name>Windsor</vehicle-name>
+		<category>Convertibles</category>
+		<modifications>Transfender</modifications>
+		<model-name>windsor</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>556</vehicle-model-id>
+		<vehicle-name>Monster "A"</vehicle-name>
+		<category>Off Road</category>
+		<modifications>None</modifications>
+		<model-name>monstera</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>557</vehicle-model-id>
+		<vehicle-name>Monster "B"</vehicle-name>
+		<category>Off Road</category>
+		<modifications>None</modifications>
+		<model-name>monsterb</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>558</vehicle-model-id>
+		<vehicle-name>Uranus</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Wheel Arch Angels</modifications>
+		<model-name>uranus</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>559</vehicle-model-id>
+		<vehicle-name>Jester</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Wheel Arch Angels</modifications>
+		<model-name>jester</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>560</vehicle-model-id>
+		<vehicle-name>Sultan</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Wheel Arch Angels</modifications>
+		<model-name>sultan</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>561</vehicle-model-id>
+		<vehicle-name>Stratum</vehicle-name>
+		<category>Station Wagons</category>
+		<modifications>Wheel Arch Angels</modifications>
+		<model-name>stratum</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>562</vehicle-model-id>
+		<vehicle-name>Elegy</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Wheel Arch Angels</modifications>
+		<model-name>elegy</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>563</vehicle-model-id>
+		<vehicle-name>Raindance</vehicle-name>
+		<category>Helicopters</category>
+		<modifications>None</modifications>
+		<model-name>raindanc</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>564</vehicle-model-id>
+		<vehicle-name>RC Tiger</vehicle-name>
+		<category>RC Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>rctiger</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>565</vehicle-model-id>
+		<vehicle-name>Flash</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Wheel Arch Angels</modifications>
+		<model-name>flash</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>566</vehicle-model-id>
+		<vehicle-name>Tahoma</vehicle-name>
+		<category>Lowriders</category>
+		<modifications>Loco Low Co</modifications>
+		<model-name>tahoma</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>567</vehicle-model-id>
+		<vehicle-name>Savanna</vehicle-name>
+		<category>Lowriders</category>
+		<modifications>Loco Low Co</modifications>
+		<model-name>savanna</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>568</vehicle-model-id>
+		<vehicle-name>Bandito</vehicle-name>
+		<category>Off Road</category>
+		<modifications>None</modifications>
+		<model-name>bandito</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>569</vehicle-model-id>
+		<vehicle-name>Freight Flat Trailer (Train)</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>freiflat</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>570</vehicle-model-id>
+		<vehicle-name>Streak Trailer (Train)</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>streakc</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>571</vehicle-model-id>
+		<vehicle-name>Kart</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>kart</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>572</vehicle-model-id>
+		<vehicle-name>Mower</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>mower</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>573</vehicle-model-id>
+		<vehicle-name>Dune</vehicle-name>
+		<category>Off Road</category>
+		<modifications>None</modifications>
+		<model-name>duneride</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>574</vehicle-model-id>
+		<vehicle-name>Sweeper</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>sweeper</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>575</vehicle-model-id>
+		<vehicle-name>Broadway</vehicle-name>
+		<category>Lowriders</category>
+		<modifications>Loco Low Co</modifications>
+		<model-name>broadway</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>576</vehicle-model-id>
+		<vehicle-name>Tornado</vehicle-name>
+		<category>Lowriders</category>
+		<modifications>Loco Low Co</modifications>
+		<model-name>tornado</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>577</vehicle-model-id>
+		<vehicle-name>AT400</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>at400</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>578</vehicle-model-id>
+		<vehicle-name>DFT-30</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>dft30</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>579</vehicle-model-id>
+		<vehicle-name>Huntley</vehicle-name>
+		<category>Off Road</category>
+		<modifications>Transfender</modifications>
+		<model-name>huntley</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>580</vehicle-model-id>
+		<vehicle-name>Stafford</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>stafford</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>581</vehicle-model-id>
+		<vehicle-name>BF-400</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>bf400</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>582</vehicle-model-id>
+		<vehicle-name>Newsvan</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>newsvan</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>583</vehicle-model-id>
+		<vehicle-name>Tug</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>tug</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>584</vehicle-model-id>
+		<vehicle-name>Petrol Trailer</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>petrotr</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>585</vehicle-model-id>
+		<vehicle-name>Emperor</vehicle-name>
+		<category>Saloons</category>
+		<modifications>Transfender</modifications>
+		<model-name>emperor</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>586</vehicle-model-id>
+		<vehicle-name>Wayfarer</vehicle-name>
+		<category>Bikes</category>
+		<modifications>None</modifications>
+		<model-name>wayfarer</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>587</vehicle-model-id>
+		<vehicle-name>Euros</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>euros</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>588</vehicle-model-id>
+		<vehicle-name>Hotdog</vehicle-name>
+		<category>Unique Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>hotdog</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>589</vehicle-model-id>
+		<vehicle-name>Club</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>club</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>590</vehicle-model-id>
+		<vehicle-name>Freight Box Trailer (Train)</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>freibox</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>591</vehicle-model-id>
+		<vehicle-name>Article Trailer 3</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>artict3</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>592</vehicle-model-id>
+		<vehicle-name>Andromada</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>androm</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>593</vehicle-model-id>
+		<vehicle-name>Dodo</vehicle-name>
+		<category>Airplane</category>
+		<modifications>None</modifications>
+		<model-name>dodo</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>594</vehicle-model-id>
+		<vehicle-name>RC Cam</vehicle-name>
+		<category>RC Vehicles</category>
+		<modifications>None</modifications>
+		<model-name>rccam</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>595</vehicle-model-id>
+		<vehicle-name>Launch</vehicle-name>
+		<category>Boats</category>
+		<modifications>None</modifications>
+		<model-name>launch</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>596</vehicle-model-id>
+		<vehicle-name>Police Car (LSPD)</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>copcarla</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>597</vehicle-model-id>
+		<vehicle-name>Police Car (SFPD)</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>copcarsf</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>598</vehicle-model-id>
+		<vehicle-name>Police Car (LVPD)</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>copcarvg</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>599</vehicle-model-id>
+		<vehicle-name>Police Ranger</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>copcarru</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>600</vehicle-model-id>
+		<vehicle-name>Picador</vehicle-name>
+		<category>Industrial</category>
+		<modifications>Transfender</modifications>
+		<model-name>picador</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>601</vehicle-model-id>
+		<vehicle-name>S.W.A.T.</vehicle-name>
+		<category>Public Service</category>
+		<modifications>None</modifications>
+		<model-name>swatvan</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>602</vehicle-model-id>
+		<vehicle-name>Alpha</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>alpha</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>603</vehicle-model-id>
+		<vehicle-name>Phoenix</vehicle-name>
+		<category>Sport Vehicles</category>
+		<modifications>Transfender</modifications>
+		<model-name>phoenix</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>604</vehicle-model-id>
+		<vehicle-name>Glendale Shit</vehicle-name>
+		<category>Saloons</category>
+		<modifications>None</modifications>
+		<model-name>glenshit</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>605</vehicle-model-id>
+		<vehicle-name>Sadler Shit</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>sadlshit</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>606</vehicle-model-id>
+		<vehicle-name>Baggage Trailer "A"</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>bagboxa</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>607</vehicle-model-id>
+		<vehicle-name>Baggage Trailer "B"</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>bagboxb</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>608</vehicle-model-id>
+		<vehicle-name>Tug Stairs Trailer</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>tugstair</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>609</vehicle-model-id>
+		<vehicle-name>Boxville</vehicle-name>
+		<category>Industrial</category>
+		<modifications>None</modifications>
+		<model-name>boxburg</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>610</vehicle-model-id>
+		<vehicle-name>Farm Trailer</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>farmtr1</model-name>
+	</vehicle>
+	<vehicle>
+		<vehicle-model-id>611</vehicle-model-id>
+		<vehicle-name>Utility Trailer</vehicle-name>
+		<category>Trailers</category>
+		<modifications>None</modifications>
+		<model-name>utiltr1</model-name>
+	</vehicle>
+</vehicles>

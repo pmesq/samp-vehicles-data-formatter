@@ -1,0 +1,212 @@
+400,Landstalker,Off Road,Transfender,landstal
+401,Bravura,Saloons,Transfender,bravura
+402,Buffalo,Sport Vehicles,Transfender,buffalo
+403,Linerunner,Industrial,None,linerun
+404,Perennial,Station Wagons,Transfender,peren
+405,Sentinel,Saloons,Transfender,sentinel
+406,Dumper,Unique Vehicles,None,dumper
+407,Firetruck,Public Service,None,firetruk
+408,Trashmaster,Industrial,None,trash
+409,Stretch,Unique Vehicles,Transfender,stretch
+410,Manana,Saloons,Transfender,manana
+411,Infernus,Sport Vehicles,Transfender,infernus
+412,Voodoo,Lowriders,Loco Low Co,voodoo
+413,Pony,Industrial,None,pony
+414,Mule,Industrial,None,mule
+415,Cheetah,Sport Vehicles,Transfender,cheetah
+416,Ambulance,Public Service,None,ambulan
+417,Leviathan,Helicopters,None,leviathn
+418,Moonbeam,Station Wagons,Transfender,moonbeam
+419,Esperanto,Saloons,Transfender,esperant
+420,Taxi,Public Service,Transfender,taxi
+421,Washington,Saloons,Transfender,washing
+422,Bobcat,Industrial,Transfender,bobcat
+423,Mr. Whoopee,Unique Vehicles,None,mrwhoop
+424,BF Injection,Off Road,None,bfinject
+425,Hunter,Helicopters,None,hunter
+426,Premier,Saloons,Transfender,premier
+427,Enforcer,Public Service,None,enforcer
+428,Securicar,Unique Vehicles,None,securica
+429,Banshee,Sport Vehicles,Transfender,banshee
+430,Predator,Boats,None,predator
+431,Bus,Public Service,None,bus
+432,Rhino,Public Service,None,rhino
+433,Barracks,Public Service,None,barracks
+434,Hotknife,Unique Vehicles,None,hotknife
+435,Article Trailer,Trailers,None,artict1
+436,Previon,Saloons,Transfender,previon
+437,Coach,Public Service,None,coach
+438,Cabbie,Public Service,Transfender,cabbie
+439,Stallion,Convertibles,Transfender,stallion
+440,Rumpo,Industrial,None,rumpo
+441,RC Bandit,RC Vehicles,None,rcbandit
+442,Romero,Unique Vehicles,Transfender,romero
+443,Packer,Industrial,None,packer
+444,Monster,Off Road,None,monster
+445,Admiral,Saloons,Transfender,admiral
+446,Squallo,Boats,None,squalo
+447,Seasparrow,Helicopters,None,seaspar
+448,Pizzaboy,Bikes,None,pizzaboy
+449,Tram,Unique Vehicles,None,tram
+450,Article Trailer 2,Trailers,None,artict2
+451,Turismo,Sport Vehicles,Transfender,turismo
+452,Speeder,Boats,None,speeder
+453,Reefer,Boats,None,reefer
+454,Tropic,Boats,None,tropic
+455,Flatbed,Industrial,None,flatbed
+456,Yankee,Industrial,None,yankee
+457,Caddy,Unique Vehicles,None,caddy
+458,Solair,Station Wagons,Transfender,solair
+459,Topfun Van (Berkley's RC),Industrial,None,topfun
+460,Skimmer,Airplane,None,skimmer
+461,PCJ-600,Bikes,None,pcj600
+462,Faggio,Bikes,None,faggio
+463,Freeway,Bikes,None,freeway
+464,RC Baron,RC Vehicles,None,rcbaron
+465,RC Raider,RC Vehicles,None,rcraider
+466,Glendale,Saloons,Transfender,glendale
+467,Oceanic,Saloons,Transfender,oceanic
+468,Sanchez,Bikes,None,sanchez
+469,Sparrow,Helicopters,None,sparrow
+470,Patriot,Off Road,None,patriot
+471,Quad,Bikes,None,quad
+472,Coastguard,Boats,None,coastg
+473,Dinghy,Boats,None,dinghy
+474,Hermes,Saloons,Transfender,hermes
+475,Sabre,Sport Vehicles,Transfender,sabre
+476,Rustler,Airplane,None,rustler
+477,ZR-350,Sport Vehicles,Transfender,zr350
+478,Walton,Industrial,Transfender,walton
+479,Regina,Station Wagons,Transfender,regina
+480,Comet,Convertibles,Transfender,comet
+481,BMX,Bikes,None,bmx
+482,Burrito,Industrial,None,burrito
+483,Camper,Unique Vehicles,None,camper
+484,Marquis,Boats,None,marquis
+485,Baggage,Unique Vehicles,None,baggage
+486,Dozer,Unique Vehicles,None,dozer
+487,Maverick,Helicopters,None,maverick
+488,SAN News Maverick,Helicopters,None,vcnmav
+489,Rancher,Off Road,Transfender,rancher
+490,FBI Rancher,Public Service,None,fbiranch
+491,Virgo,Saloons,Transfender,virgo
+492,Greenwood,Saloons,Transfender,greenwoo
+493,Jetmax,Boats,None,jetmax
+494,Hotring Racer,Sport Vehicles,None,hotring
+495,Sandking,Off Road,None,sandking
+496,Blista Compact,Sport Vehicles,Transfender,blistac
+497,Police Maverick,Helicopters,None,polmav
+498,Boxville,Industrial,None,boxville
+499,Benson,Industrial,None,benson
+500,Mesa,Off Road,Transfender,mesa
+501,RC Goblin,RC Vehicles,None,rcgoblin
+502,Hotring Racer A,Sport Vehicles,None,hotrina
+503,Hotring Racer B,Sport Vehicles,None,hotrinb
+504,Bloodring Banger,Saloons,None,bloodra / bloodrb
+505,Rancher Lure,Off Road,None,rnchlure
+506,Super GT,Sport Vehicles,Transfender,supergt
+507,Elegant,Saloons,Transfender,elegant
+508,Journey,Unique Vehicles,None,journey
+509,Bike,Bikes,None,bike
+510,Mountain Bike,Bikes,None,mtbike
+511,Beagle,Airplane,None,beagle
+512,Cropduster,Airplane,None,cropdust
+513,Stuntplane,Airplane,None,stunt
+514,Tanker,Industrial,None,petro
+515,Roadtrain,Industrial,None,rdtrain
+516,Nebula,Saloons,Transfender,nebula
+517,Majestic,Saloons,Transfender,majestic
+518,Buccaneer,Saloons,Transfender,buccanee
+519,Shamal,Airplane,None,shamal
+520,Hydra,Airplane,None,hydra
+521,FCR-900,Bikes,None,fcr900
+522,NRG-500,Bikes,None,nrg500
+523,HPV1000,Public Service,None,copbike
+524,Cement Truck,Industrial,None,cement
+525,Towtruck,Unique Vehicles,None,towtruck
+526,Fortune,Saloons,Transfender,fortune
+527,Cadrona,Saloons,Transfender,cadrona
+528,FBI Truck,Public Service,None,fbitruck
+529,Willard,Saloons,Transfender,willard
+530,Forklift,Unique Vehicles,None,forklift
+531,Tractor,Industrial,None,tractor
+532,Combine Harvester,Unique Vehicles,None,combine
+533,Feltzer,Convertibles,Transfender,feltzer
+534,Remington,Lowriders,Loco Low Co,remingtn
+535,Slamvan,Lowriders,Loco Low Co,slamvan
+536,Blade,Lowriders,Loco Low Co,blade
+537,Freight (Train),Unique Vehicles,None,freight
+538,Brownstreak (Train),Unique Vehicles,None,streak
+539,Vortex,Unique Vehicles,None,vortex
+540,Vincent,Saloons,Transfender,vincent
+541,Bullet,Sport Vehicles,Transfender,bullet
+542,Clover,Saloons,Transfender,clover
+543,Sadler,Industrial,None,sadler
+544,Firetruck LA,Public Service,None,firela
+545,Hustler,Unique Vehicles,Transfender,hustler
+546,Intruder,Saloons,Transfender,intruder
+547,Primo,Saloons,Transfender,primo
+548,Cargobob,Helicopters,None,cargobob
+549,Tampa,Saloons,Transfender,tampa
+550,Sunrise,Saloons,Transfender,sunrise
+551,Merit,Saloons,Transfender,merit
+552,Utility Van,Industrial,None,utility
+553,Nevada,Airplane,None,nevada
+554,Yosemite,Industrial,None,yosemite
+555,Windsor,Convertibles,Transfender,windsor
+556,Monster "A",Off Road,None,monstera
+557,Monster "B",Off Road,None,monsterb
+558,Uranus,Sport Vehicles,Wheel Arch Angels,uranus
+559,Jester,Sport Vehicles,Wheel Arch Angels,jester
+560,Sultan,Saloons,Wheel Arch Angels,sultan
+561,Stratum,Station Wagons,Wheel Arch Angels,stratum
+562,Elegy,Saloons,Wheel Arch Angels,elegy
+563,Raindance,Helicopters,None,raindanc
+564,RC Tiger,RC Vehicles,None,rctiger
+565,Flash,Sport Vehicles,Wheel Arch Angels,flash
+566,Tahoma,Lowriders,Loco Low Co,tahoma
+567,Savanna,Lowriders,Loco Low Co,savanna
+568,Bandito,Off Road,None,bandito
+569,Freight Flat Trailer (Train),Trailers,None,freiflat
+570,Streak Trailer (Train),Trailers,None,streakc
+571,Kart,Unique Vehicles,None,kart
+572,Mower,Unique Vehicles,None,mower
+573,Dune,Off Road,None,duneride
+574,Sweeper,Unique Vehicles,None,sweeper
+575,Broadway,Lowriders,Loco Low Co,broadway
+576,Tornado,Lowriders,Loco Low Co,tornado
+577,AT400,Airplane,None,at400
+578,DFT-30,Industrial,None,dft30
+579,Huntley,Off Road,Transfender,huntley
+580,Stafford,Saloons,Transfender,stafford
+581,BF-400,Bikes,None,bf400
+582,Newsvan,Industrial,None,newsvan
+583,Tug,Unique Vehicles,None,tug
+584,Petrol Trailer,Trailers,None,petrotr
+585,Emperor,Saloons,Transfender,emperor
+586,Wayfarer,Bikes,None,wayfarer
+587,Euros,Sport Vehicles,Transfender,euros
+588,Hotdog,Unique Vehicles,None,hotdog
+589,Club,Sport Vehicles,Transfender,club
+590,Freight Box Trailer (Train),Trailers,None,freibox
+591,Article Trailer 3,Trailers,None,artict3
+592,Andromada,Airplane,None,androm
+593,Dodo,Airplane,None,dodo
+594,RC Cam,RC Vehicles,None,rccam
+595,Launch,Boats,None,launch
+596,Police Car (LSPD),Public Service,None,copcarla
+597,Police Car (SFPD),Public Service,None,copcarsf
+598,Police Car (LVPD),Public Service,None,copcarvg
+599,Police Ranger,Public Service,None,copcarru
+600,Picador,Industrial,Transfender,picador
+601,S.W.A.T.,Public Service,None,swatvan
+602,Alpha,Sport Vehicles,Transfender,alpha
+603,Phoenix,Sport Vehicles,Transfender,phoenix
+604,Glendale Shit,Saloons,None,glenshit
+605,Sadler Shit,Industrial,None,sadlshit
+606,Baggage Trailer "A",Trailers,None,bagboxa
+607,Baggage Trailer "B",Trailers,None,bagboxb
+608,Tug Stairs Trailer,Trailers,None,tugstair
+609,Boxville,Industrial,None,boxburg
+610,Farm Trailer,Trailers,None,farmtr1
+611,Utility Trailer,Trailers,None,utiltr1
