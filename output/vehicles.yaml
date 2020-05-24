@@ -1,0 +1,1272 @@
+-
+    vehicleModelId: 400
+    vehicleName: Landstalker
+    category: Off Road
+    modifications: Transfender
+    modelName: landstal
+-
+    vehicleModelId: 401
+    vehicleName: Bravura
+    category: Saloons
+    modifications: Transfender
+    modelName: bravura
+-
+    vehicleModelId: 402
+    vehicleName: Buffalo
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: buffalo
+-
+    vehicleModelId: 403
+    vehicleName: Linerunner
+    category: Industrial
+    modifications: None
+    modelName: linerun
+-
+    vehicleModelId: 404
+    vehicleName: Perennial
+    category: Station Wagons
+    modifications: Transfender
+    modelName: peren
+-
+    vehicleModelId: 405
+    vehicleName: Sentinel
+    category: Saloons
+    modifications: Transfender
+    modelName: sentinel
+-
+    vehicleModelId: 406
+    vehicleName: Dumper
+    category: Unique Vehicles
+    modifications: None
+    modelName: dumper
+-
+    vehicleModelId: 407
+    vehicleName: Firetruck
+    category: Public Service
+    modifications: None
+    modelName: firetruk
+-
+    vehicleModelId: 408
+    vehicleName: Trashmaster
+    category: Industrial
+    modifications: None
+    modelName: trash
+-
+    vehicleModelId: 409
+    vehicleName: Stretch
+    category: Unique Vehicles
+    modifications: Transfender
+    modelName: stretch
+-
+    vehicleModelId: 410
+    vehicleName: Manana
+    category: Saloons
+    modifications: Transfender
+    modelName: manana
+-
+    vehicleModelId: 411
+    vehicleName: Infernus
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: infernus
+-
+    vehicleModelId: 412
+    vehicleName: Voodoo
+    category: Lowriders
+    modifications: Loco Low Co
+    modelName: voodoo
+-
+    vehicleModelId: 413
+    vehicleName: Pony
+    category: Industrial
+    modifications: None
+    modelName: pony
+-
+    vehicleModelId: 414
+    vehicleName: Mule
+    category: Industrial
+    modifications: None
+    modelName: mule
+-
+    vehicleModelId: 415
+    vehicleName: Cheetah
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: cheetah
+-
+    vehicleModelId: 416
+    vehicleName: Ambulance
+    category: Public Service
+    modifications: None
+    modelName: ambulan
+-
+    vehicleModelId: 417
+    vehicleName: Leviathan
+    category: Helicopters
+    modifications: None
+    modelName: leviathn
+-
+    vehicleModelId: 418
+    vehicleName: Moonbeam
+    category: Station Wagons
+    modifications: Transfender
+    modelName: moonbeam
+-
+    vehicleModelId: 419
+    vehicleName: Esperanto
+    category: Saloons
+    modifications: Transfender
+    modelName: esperant
+-
+    vehicleModelId: 420
+    vehicleName: Taxi
+    category: Public Service
+    modifications: Transfender
+    modelName: taxi
+-
+    vehicleModelId: 421
+    vehicleName: Washington
+    category: Saloons
+    modifications: Transfender
+    modelName: washing
+-
+    vehicleModelId: 422
+    vehicleName: Bobcat
+    category: Industrial
+    modifications: Transfender
+    modelName: bobcat
+-
+    vehicleModelId: 423
+    vehicleName: Mr. Whoopee
+    category: Unique Vehicles
+    modifications: None
+    modelName: mrwhoop
+-
+    vehicleModelId: 424
+    vehicleName: BF Injection
+    category: Off Road
+    modifications: None
+    modelName: bfinject
+-
+    vehicleModelId: 425
+    vehicleName: Hunter
+    category: Helicopters
+    modifications: None
+    modelName: hunter
+-
+    vehicleModelId: 426
+    vehicleName: Premier
+    category: Saloons
+    modifications: Transfender
+    modelName: premier
+-
+    vehicleModelId: 427
+    vehicleName: Enforcer
+    category: Public Service
+    modifications: None
+    modelName: enforcer
+-
+    vehicleModelId: 428
+    vehicleName: Securicar
+    category: Unique Vehicles
+    modifications: None
+    modelName: securica
+-
+    vehicleModelId: 429
+    vehicleName: Banshee
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: banshee
+-
+    vehicleModelId: 430
+    vehicleName: Predator
+    category: Boats
+    modifications: None
+    modelName: predator
+-
+    vehicleModelId: 431
+    vehicleName: Bus
+    category: Public Service
+    modifications: None
+    modelName: bus
+-
+    vehicleModelId: 432
+    vehicleName: Rhino
+    category: Public Service
+    modifications: None
+    modelName: rhino
+-
+    vehicleModelId: 433
+    vehicleName: Barracks
+    category: Public Service
+    modifications: None
+    modelName: barracks
+-
+    vehicleModelId: 434
+    vehicleName: Hotknife
+    category: Unique Vehicles
+    modifications: None
+    modelName: hotknife
+-
+    vehicleModelId: 435
+    vehicleName: Article Trailer
+    category: Trailers
+    modifications: None
+    modelName: artict1
+-
+    vehicleModelId: 436
+    vehicleName: Previon
+    category: Saloons
+    modifications: Transfender
+    modelName: previon
+-
+    vehicleModelId: 437
+    vehicleName: Coach
+    category: Public Service
+    modifications: None
+    modelName: coach
+-
+    vehicleModelId: 438
+    vehicleName: Cabbie
+    category: Public Service
+    modifications: Transfender
+    modelName: cabbie
+-
+    vehicleModelId: 439
+    vehicleName: Stallion
+    category: Convertibles
+    modifications: Transfender
+    modelName: stallion
+-
+    vehicleModelId: 440
+    vehicleName: Rumpo
+    category: Industrial
+    modifications: None
+    modelName: rumpo
+-
+    vehicleModelId: 441
+    vehicleName: RC Bandit
+    category: RC Vehicles
+    modifications: None
+    modelName: rcbandit
+-
+    vehicleModelId: 442
+    vehicleName: Romero
+    category: Unique Vehicles
+    modifications: Transfender
+    modelName: romero
+-
+    vehicleModelId: 443
+    vehicleName: Packer
+    category: Industrial
+    modifications: None
+    modelName: packer
+-
+    vehicleModelId: 444
+    vehicleName: Monster
+    category: Off Road
+    modifications: None
+    modelName: monster
+-
+    vehicleModelId: 445
+    vehicleName: Admiral
+    category: Saloons
+    modifications: Transfender
+    modelName: admiral
+-
+    vehicleModelId: 446
+    vehicleName: Squallo
+    category: Boats
+    modifications: None
+    modelName: squalo
+-
+    vehicleModelId: 447
+    vehicleName: Seasparrow
+    category: Helicopters
+    modifications: None
+    modelName: seaspar
+-
+    vehicleModelId: 448
+    vehicleName: Pizzaboy
+    category: Bikes
+    modifications: None
+    modelName: pizzaboy
+-
+    vehicleModelId: 449
+    vehicleName: Tram
+    category: Unique Vehicles
+    modifications: None
+    modelName: tram
+-
+    vehicleModelId: 450
+    vehicleName: Article Trailer 2
+    category: Trailers
+    modifications: None
+    modelName: artict2
+-
+    vehicleModelId: 451
+    vehicleName: Turismo
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: turismo
+-
+    vehicleModelId: 452
+    vehicleName: Speeder
+    category: Boats
+    modifications: None
+    modelName: speeder
+-
+    vehicleModelId: 453
+    vehicleName: Reefer
+    category: Boats
+    modifications: None
+    modelName: reefer
+-
+    vehicleModelId: 454
+    vehicleName: Tropic
+    category: Boats
+    modifications: None
+    modelName: tropic
+-
+    vehicleModelId: 455
+    vehicleName: Flatbed
+    category: Industrial
+    modifications: None
+    modelName: flatbed
+-
+    vehicleModelId: 456
+    vehicleName: Yankee
+    category: Industrial
+    modifications: None
+    modelName: yankee
+-
+    vehicleModelId: 457
+    vehicleName: Caddy
+    category: Unique Vehicles
+    modifications: None
+    modelName: caddy
+-
+    vehicleModelId: 458
+    vehicleName: Solair
+    category: Station Wagons
+    modifications: Transfender
+    modelName: solair
+-
+    vehicleModelId: 459
+    vehicleName: Topfun Van (Berkley's RC)
+    category: Industrial
+    modifications: None
+    modelName: topfun
+-
+    vehicleModelId: 460
+    vehicleName: Skimmer
+    category: Airplane
+    modifications: None
+    modelName: skimmer
+-
+    vehicleModelId: 461
+    vehicleName: PCJ-600
+    category: Bikes
+    modifications: None
+    modelName: pcj600
+-
+    vehicleModelId: 462
+    vehicleName: Faggio
+    category: Bikes
+    modifications: None
+    modelName: faggio
+-
+    vehicleModelId: 463
+    vehicleName: Freeway
+    category: Bikes
+    modifications: None
+    modelName: freeway
+-
+    vehicleModelId: 464
+    vehicleName: RC Baron
+    category: RC Vehicles
+    modifications: None
+    modelName: rcbaron
+-
+    vehicleModelId: 465
+    vehicleName: RC Raider
+    category: RC Vehicles
+    modifications: None
+    modelName: rcraider
+-
+    vehicleModelId: 466
+    vehicleName: Glendale
+    category: Saloons
+    modifications: Transfender
+    modelName: glendale
+-
+    vehicleModelId: 467
+    vehicleName: Oceanic
+    category: Saloons
+    modifications: Transfender
+    modelName: oceanic
+-
+    vehicleModelId: 468
+    vehicleName: Sanchez
+    category: Bikes
+    modifications: None
+    modelName: sanchez
+-
+    vehicleModelId: 469
+    vehicleName: Sparrow
+    category: Helicopters
+    modifications: None
+    modelName: sparrow
+-
+    vehicleModelId: 470
+    vehicleName: Patriot
+    category: Off Road
+    modifications: None
+    modelName: patriot
+-
+    vehicleModelId: 471
+    vehicleName: Quad
+    category: Bikes
+    modifications: None
+    modelName: quad
+-
+    vehicleModelId: 472
+    vehicleName: Coastguard
+    category: Boats
+    modifications: None
+    modelName: coastg
+-
+    vehicleModelId: 473
+    vehicleName: Dinghy
+    category: Boats
+    modifications: None
+    modelName: dinghy
+-
+    vehicleModelId: 474
+    vehicleName: Hermes
+    category: Saloons
+    modifications: Transfender
+    modelName: hermes
+-
+    vehicleModelId: 475
+    vehicleName: Sabre
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: sabre
+-
+    vehicleModelId: 476
+    vehicleName: Rustler
+    category: Airplane
+    modifications: None
+    modelName: rustler
+-
+    vehicleModelId: 477
+    vehicleName: ZR-350
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: zr350
+-
+    vehicleModelId: 478
+    vehicleName: Walton
+    category: Industrial
+    modifications: Transfender
+    modelName: walton
+-
+    vehicleModelId: 479
+    vehicleName: Regina
+    category: Station Wagons
+    modifications: Transfender
+    modelName: regina
+-
+    vehicleModelId: 480
+    vehicleName: Comet
+    category: Convertibles
+    modifications: Transfender
+    modelName: comet
+-
+    vehicleModelId: 481
+    vehicleName: BMX
+    category: Bikes
+    modifications: None
+    modelName: bmx
+-
+    vehicleModelId: 482
+    vehicleName: Burrito
+    category: Industrial
+    modifications: None
+    modelName: burrito
+-
+    vehicleModelId: 483
+    vehicleName: Camper
+    category: Unique Vehicles
+    modifications: None
+    modelName: camper
+-
+    vehicleModelId: 484
+    vehicleName: Marquis
+    category: Boats
+    modifications: None
+    modelName: marquis
+-
+    vehicleModelId: 485
+    vehicleName: Baggage
+    category: Unique Vehicles
+    modifications: None
+    modelName: baggage
+-
+    vehicleModelId: 486
+    vehicleName: Dozer
+    category: Unique Vehicles
+    modifications: None
+    modelName: dozer
+-
+    vehicleModelId: 487
+    vehicleName: Maverick
+    category: Helicopters
+    modifications: None
+    modelName: maverick
+-
+    vehicleModelId: 488
+    vehicleName: SAN News Maverick
+    category: Helicopters
+    modifications: None
+    modelName: vcnmav
+-
+    vehicleModelId: 489
+    vehicleName: Rancher
+    category: Off Road
+    modifications: Transfender
+    modelName: rancher
+-
+    vehicleModelId: 490
+    vehicleName: FBI Rancher
+    category: Public Service
+    modifications: None
+    modelName: fbiranch
+-
+    vehicleModelId: 491
+    vehicleName: Virgo
+    category: Saloons
+    modifications: Transfender
+    modelName: virgo
+-
+    vehicleModelId: 492
+    vehicleName: Greenwood
+    category: Saloons
+    modifications: Transfender
+    modelName: greenwoo
+-
+    vehicleModelId: 493
+    vehicleName: Jetmax
+    category: Boats
+    modifications: None
+    modelName: jetmax
+-
+    vehicleModelId: 494
+    vehicleName: Hotring Racer
+    category: Sport Vehicles
+    modifications: None
+    modelName: hotring
+-
+    vehicleModelId: 495
+    vehicleName: Sandking
+    category: Off Road
+    modifications: None
+    modelName: sandking
+-
+    vehicleModelId: 496
+    vehicleName: Blista Compact
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: blistac
+-
+    vehicleModelId: 497
+    vehicleName: Police Maverick
+    category: Helicopters
+    modifications: None
+    modelName: polmav
+-
+    vehicleModelId: 498
+    vehicleName: Boxville
+    category: Industrial
+    modifications: None
+    modelName: boxville
+-
+    vehicleModelId: 499
+    vehicleName: Benson
+    category: Industrial
+    modifications: None
+    modelName: benson
+-
+    vehicleModelId: 500
+    vehicleName: Mesa
+    category: Off Road
+    modifications: Transfender
+    modelName: mesa
+-
+    vehicleModelId: 501
+    vehicleName: RC Goblin
+    category: RC Vehicles
+    modifications: None
+    modelName: rcgoblin
+-
+    vehicleModelId: 502
+    vehicleName: Hotring Racer A
+    category: Sport Vehicles
+    modifications: None
+    modelName: hotrina
+-
+    vehicleModelId: 503
+    vehicleName: Hotring Racer B
+    category: Sport Vehicles
+    modifications: None
+    modelName: hotrinb
+-
+    vehicleModelId: 504
+    vehicleName: Bloodring Banger
+    category: Saloons
+    modifications: None
+    modelName: bloodra / bloodrb
+-
+    vehicleModelId: 505
+    vehicleName: Rancher Lure
+    category: Off Road
+    modifications: None
+    modelName: rnchlure
+-
+    vehicleModelId: 506
+    vehicleName: Super GT
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: supergt
+-
+    vehicleModelId: 507
+    vehicleName: Elegant
+    category: Saloons
+    modifications: Transfender
+    modelName: elegant
+-
+    vehicleModelId: 508
+    vehicleName: Journey
+    category: Unique Vehicles
+    modifications: None
+    modelName: journey
+-
+    vehicleModelId: 509
+    vehicleName: Bike
+    category: Bikes
+    modifications: None
+    modelName: bike
+-
+    vehicleModelId: 510
+    vehicleName: Mountain Bike
+    category: Bikes
+    modifications: None
+    modelName: mtbike
+-
+    vehicleModelId: 511
+    vehicleName: Beagle
+    category: Airplane
+    modifications: None
+    modelName: beagle
+-
+    vehicleModelId: 512
+    vehicleName: Cropduster
+    category: Airplane
+    modifications: None
+    modelName: cropdust
+-
+    vehicleModelId: 513
+    vehicleName: Stuntplane
+    category: Airplane
+    modifications: None
+    modelName: stunt
+-
+    vehicleModelId: 514
+    vehicleName: Tanker
+    category: Industrial
+    modifications: None
+    modelName: petro
+-
+    vehicleModelId: 515
+    vehicleName: Roadtrain
+    category: Industrial
+    modifications: None
+    modelName: rdtrain
+-
+    vehicleModelId: 516
+    vehicleName: Nebula
+    category: Saloons
+    modifications: Transfender
+    modelName: nebula
+-
+    vehicleModelId: 517
+    vehicleName: Majestic
+    category: Saloons
+    modifications: Transfender
+    modelName: majestic
+-
+    vehicleModelId: 518
+    vehicleName: Buccaneer
+    category: Saloons
+    modifications: Transfender
+    modelName: buccanee
+-
+    vehicleModelId: 519
+    vehicleName: Shamal
+    category: Airplane
+    modifications: None
+    modelName: shamal
+-
+    vehicleModelId: 520
+    vehicleName: Hydra
+    category: Airplane
+    modifications: None
+    modelName: hydra
+-
+    vehicleModelId: 521
+    vehicleName: FCR-900
+    category: Bikes
+    modifications: None
+    modelName: fcr900
+-
+    vehicleModelId: 522
+    vehicleName: NRG-500
+    category: Bikes
+    modifications: None
+    modelName: nrg500
+-
+    vehicleModelId: 523
+    vehicleName: HPV1000
+    category: Public Service
+    modifications: None
+    modelName: copbike
+-
+    vehicleModelId: 524
+    vehicleName: Cement Truck
+    category: Industrial
+    modifications: None
+    modelName: cement
+-
+    vehicleModelId: 525
+    vehicleName: Towtruck
+    category: Unique Vehicles
+    modifications: None
+    modelName: towtruck
+-
+    vehicleModelId: 526
+    vehicleName: Fortune
+    category: Saloons
+    modifications: Transfender
+    modelName: fortune
+-
+    vehicleModelId: 527
+    vehicleName: Cadrona
+    category: Saloons
+    modifications: Transfender
+    modelName: cadrona
+-
+    vehicleModelId: 528
+    vehicleName: FBI Truck
+    category: Public Service
+    modifications: None
+    modelName: fbitruck
+-
+    vehicleModelId: 529
+    vehicleName: Willard
+    category: Saloons
+    modifications: Transfender
+    modelName: willard
+-
+    vehicleModelId: 530
+    vehicleName: Forklift
+    category: Unique Vehicles
+    modifications: None
+    modelName: forklift
+-
+    vehicleModelId: 531
+    vehicleName: Tractor
+    category: Industrial
+    modifications: None
+    modelName: tractor
+-
+    vehicleModelId: 532
+    vehicleName: Combine Harvester
+    category: Unique Vehicles
+    modifications: None
+    modelName: combine
+-
+    vehicleModelId: 533
+    vehicleName: Feltzer
+    category: Convertibles
+    modifications: Transfender
+    modelName: feltzer
+-
+    vehicleModelId: 534
+    vehicleName: Remington
+    category: Lowriders
+    modifications: Loco Low Co
+    modelName: remingtn
+-
+    vehicleModelId: 535
+    vehicleName: Slamvan
+    category: Lowriders
+    modifications: Loco Low Co
+    modelName: slamvan
+-
+    vehicleModelId: 536
+    vehicleName: Blade
+    category: Lowriders
+    modifications: Loco Low Co
+    modelName: blade
+-
+    vehicleModelId: 537
+    vehicleName: Freight (Train)
+    category: Unique Vehicles
+    modifications: None
+    modelName: freight
+-
+    vehicleModelId: 538
+    vehicleName: Brownstreak (Train)
+    category: Unique Vehicles
+    modifications: None
+    modelName: streak
+-
+    vehicleModelId: 539
+    vehicleName: Vortex
+    category: Unique Vehicles
+    modifications: None
+    modelName: vortex
+-
+    vehicleModelId: 540
+    vehicleName: Vincent
+    category: Saloons
+    modifications: Transfender
+    modelName: vincent
+-
+    vehicleModelId: 541
+    vehicleName: Bullet
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: bullet
+-
+    vehicleModelId: 542
+    vehicleName: Clover
+    category: Saloons
+    modifications: Transfender
+    modelName: clover
+-
+    vehicleModelId: 543
+    vehicleName: Sadler
+    category: Industrial
+    modifications: None
+    modelName: sadler
+-
+    vehicleModelId: 544
+    vehicleName: Firetruck LA
+    category: Public Service
+    modifications: None
+    modelName: firela
+-
+    vehicleModelId: 545
+    vehicleName: Hustler
+    category: Unique Vehicles
+    modifications: Transfender
+    modelName: hustler
+-
+    vehicleModelId: 546
+    vehicleName: Intruder
+    category: Saloons
+    modifications: Transfender
+    modelName: intruder
+-
+    vehicleModelId: 547
+    vehicleName: Primo
+    category: Saloons
+    modifications: Transfender
+    modelName: primo
+-
+    vehicleModelId: 548
+    vehicleName: Cargobob
+    category: Helicopters
+    modifications: None
+    modelName: cargobob
+-
+    vehicleModelId: 549
+    vehicleName: Tampa
+    category: Saloons
+    modifications: Transfender
+    modelName: tampa
+-
+    vehicleModelId: 550
+    vehicleName: Sunrise
+    category: Saloons
+    modifications: Transfender
+    modelName: sunrise
+-
+    vehicleModelId: 551
+    vehicleName: Merit
+    category: Saloons
+    modifications: Transfender
+    modelName: merit
+-
+    vehicleModelId: 552
+    vehicleName: Utility Van
+    category: Industrial
+    modifications: None
+    modelName: utility
+-
+    vehicleModelId: 553
+    vehicleName: Nevada
+    category: Airplane
+    modifications: None
+    modelName: nevada
+-
+    vehicleModelId: 554
+    vehicleName: Yosemite
+    category: Industrial
+    modifications: None
+    modelName: yosemite
+-
+    vehicleModelId: 555
+    vehicleName: Windsor
+    category: Convertibles
+    modifications: Transfender
+    modelName: windsor
+-
+    vehicleModelId: 556
+    vehicleName: Monster A
+    category: Off Road
+    modifications: None
+    modelName: monstera
+-
+    vehicleModelId: 557
+    vehicleName: Monster B
+    category: Off Road
+    modifications: None
+    modelName: monsterb
+-
+    vehicleModelId: 558
+    vehicleName: Uranus
+    category: Sport Vehicles
+    modifications: Wheel Arch Angels
+    modelName: uranus
+-
+    vehicleModelId: 559
+    vehicleName: Jester
+    category: Sport Vehicles
+    modifications: Wheel Arch Angels
+    modelName: jester
+-
+    vehicleModelId: 560
+    vehicleName: Sultan
+    category: Saloons
+    modifications: Wheel Arch Angels
+    modelName: sultan
+-
+    vehicleModelId: 561
+    vehicleName: Stratum
+    category: Station Wagons
+    modifications: Wheel Arch Angels
+    modelName: stratum
+-
+    vehicleModelId: 562
+    vehicleName: Elegy
+    category: Saloons
+    modifications: Wheel Arch Angels
+    modelName: elegy
+-
+    vehicleModelId: 563
+    vehicleName: Raindance
+    category: Helicopters
+    modifications: None
+    modelName: raindanc
+-
+    vehicleModelId: 564
+    vehicleName: RC Tiger
+    category: RC Vehicles
+    modifications: None
+    modelName: rctiger
+-
+    vehicleModelId: 565
+    vehicleName: Flash
+    category: Sport Vehicles
+    modifications: Wheel Arch Angels
+    modelName: flash
+-
+    vehicleModelId: 566
+    vehicleName: Tahoma
+    category: Lowriders
+    modifications: Loco Low Co
+    modelName: tahoma
+-
+    vehicleModelId: 567
+    vehicleName: Savanna
+    category: Lowriders
+    modifications: Loco Low Co
+    modelName: savanna
+-
+    vehicleModelId: 568
+    vehicleName: Bandito
+    category: Off Road
+    modifications: None
+    modelName: bandito
+-
+    vehicleModelId: 569
+    vehicleName: Freight Flat Trailer (Train)
+    category: Trailers
+    modifications: None
+    modelName: freiflat
+-
+    vehicleModelId: 570
+    vehicleName: Streak Trailer (Train)
+    category: Trailers
+    modifications: None
+    modelName: streakc
+-
+    vehicleModelId: 571
+    vehicleName: Kart
+    category: Unique Vehicles
+    modifications: None
+    modelName: kart
+-
+    vehicleModelId: 572
+    vehicleName: Mower
+    category: Unique Vehicles
+    modifications: None
+    modelName: mower
+-
+    vehicleModelId: 573
+    vehicleName: Dune
+    category: Off Road
+    modifications: None
+    modelName: duneride
+-
+    vehicleModelId: 574
+    vehicleName: Sweeper
+    category: Unique Vehicles
+    modifications: None
+    modelName: sweeper
+-
+    vehicleModelId: 575
+    vehicleName: Broadway
+    category: Lowriders
+    modifications: Loco Low Co
+    modelName: broadway
+-
+    vehicleModelId: 576
+    vehicleName: Tornado
+    category: Lowriders
+    modifications: Loco Low Co
+    modelName: tornado
+-
+    vehicleModelId: 577
+    vehicleName: AT400
+    category: Airplane
+    modifications: None
+    modelName: at400
+-
+    vehicleModelId: 578
+    vehicleName: DFT-30
+    category: Industrial
+    modifications: None
+    modelName: dft30
+-
+    vehicleModelId: 579
+    vehicleName: Huntley
+    category: Off Road
+    modifications: Transfender
+    modelName: huntley
+-
+    vehicleModelId: 580
+    vehicleName: Stafford
+    category: Saloons
+    modifications: Transfender
+    modelName: stafford
+-
+    vehicleModelId: 581
+    vehicleName: BF-400
+    category: Bikes
+    modifications: None
+    modelName: bf400
+-
+    vehicleModelId: 582
+    vehicleName: Newsvan
+    category: Industrial
+    modifications: None
+    modelName: newsvan
+-
+    vehicleModelId: 583
+    vehicleName: Tug
+    category: Unique Vehicles
+    modifications: None
+    modelName: tug
+-
+    vehicleModelId: 584
+    vehicleName: Petrol Trailer
+    category: Trailers
+    modifications: None
+    modelName: petrotr
+-
+    vehicleModelId: 585
+    vehicleName: Emperor
+    category: Saloons
+    modifications: Transfender
+    modelName: emperor
+-
+    vehicleModelId: 586
+    vehicleName: Wayfarer
+    category: Bikes
+    modifications: None
+    modelName: wayfarer
+-
+    vehicleModelId: 587
+    vehicleName: Euros
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: euros
+-
+    vehicleModelId: 588
+    vehicleName: Hotdog
+    category: Unique Vehicles
+    modifications: None
+    modelName: hotdog
+-
+    vehicleModelId: 589
+    vehicleName: Club
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: club
+-
+    vehicleModelId: 590
+    vehicleName: Freight Box Trailer (Train)
+    category: Trailers
+    modifications: None
+    modelName: freibox
+-
+    vehicleModelId: 591
+    vehicleName: Article Trailer 3
+    category: Trailers
+    modifications: None
+    modelName: artict3
+-
+    vehicleModelId: 592
+    vehicleName: Andromada
+    category: Airplane
+    modifications: None
+    modelName: androm
+-
+    vehicleModelId: 593
+    vehicleName: Dodo
+    category: Airplane
+    modifications: None
+    modelName: dodo
+-
+    vehicleModelId: 594
+    vehicleName: RC Cam
+    category: RC Vehicles
+    modifications: None
+    modelName: rccam
+-
+    vehicleModelId: 595
+    vehicleName: Launch
+    category: Boats
+    modifications: None
+    modelName: launch
+-
+    vehicleModelId: 596
+    vehicleName: Police Car (LSPD)
+    category: Public Service
+    modifications: None
+    modelName: copcarla
+-
+    vehicleModelId: 597
+    vehicleName: Police Car (SFPD)
+    category: Public Service
+    modifications: None
+    modelName: copcarsf
+-
+    vehicleModelId: 598
+    vehicleName: Police Car (LVPD)
+    category: Public Service
+    modifications: None
+    modelName: copcarvg
+-
+    vehicleModelId: 599
+    vehicleName: Police Ranger
+    category: Public Service
+    modifications: None
+    modelName: copcarru
+-
+    vehicleModelId: 600
+    vehicleName: Picador
+    category: Industrial
+    modifications: Transfender
+    modelName: picador
+-
+    vehicleModelId: 601
+    vehicleName: S.W.A.T.
+    category: Public Service
+    modifications: None
+    modelName: swatvan
+-
+    vehicleModelId: 602
+    vehicleName: Alpha
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: alpha
+-
+    vehicleModelId: 603
+    vehicleName: Phoenix
+    category: Sport Vehicles
+    modifications: Transfender
+    modelName: phoenix
+-
+    vehicleModelId: 604
+    vehicleName: Glendale Shit
+    category: Saloons
+    modifications: None
+    modelName: glenshit
+-
+    vehicleModelId: 605
+    vehicleName: Sadler Shit
+    category: Industrial
+    modifications: None
+    modelName: sadlshit
+-
+    vehicleModelId: 606
+    vehicleName: Baggage Trailer A
+    category: Trailers
+    modifications: None
+    modelName: bagboxa
+-
+    vehicleModelId: 607
+    vehicleName: Baggage Trailer B
+    category: Trailers
+    modifications: None
+    modelName: bagboxb
+-
+    vehicleModelId: 608
+    vehicleName: Tug Stairs Trailer
+    category: Trailers
+    modifications: None
+    modelName: tugstair
+-
+    vehicleModelId: 609
+    vehicleName: Boxville
+    category: Industrial
+    modifications: None
+    modelName: boxburg
+-
+    vehicleModelId: 610
+    vehicleName: Farm Trailer
+    category: Trailers
+    modifications: None
+    modelName: farmtr1
+-
+    vehicleModelId: 611
+    vehicleName: Utility Trailer
+    category: Trailers
+    modifications: None
+    modelName: utiltr1

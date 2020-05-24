@@ -81,13 +81,13 @@ void printVehicleListAsJSON(const list<Vehicle> vehicleList) {
 
 void printVehicleListAsYML(const list<Vehicle> vehicleList) {
 	fstream fs;
-	fs.open("output/vehicles.yml", fstream::out);
+	fs.open("output/vehicles.yaml", fstream::out);
 	for (const Vehicle vehicle : vehicleList) {
-		fs << "-\n\tvehicleModelId: " << vehicle.vehicleModelId << "\n"
-				<< "\tvehicleName: " << removeQuotes(vehicle.vehicleName) << "\n"
-				<< "\tcategory: " << vehicle.category << "\n"
-				<< "\tmodifications: " << vehicle.modifications << "\n"
-				<< "\tmodelName: " << vehicle.modelName << "\n";
+		fs << "-\n    vehicleModelId: " << vehicle.vehicleModelId << "\n"
+				<< "    vehicleName: " << removeQuotes(vehicle.vehicleName) << "\n"
+				<< "    category: " << vehicle.category << "\n"
+				<< "    modifications: " << vehicle.modifications << "\n"
+				<< "    modelName: " << vehicle.modelName << "\n";
 	}
 	fs.close();
 }
