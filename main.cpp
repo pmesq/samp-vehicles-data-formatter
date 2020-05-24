@@ -112,6 +112,7 @@ void printVehicleListAsXML(const list<Vehicle> vehicleList) {
 void printVehicleListAsCSV(const list<Vehicle> vehicleList) {
 	fstream fs;
 	fs.open("output/vehicles.csv", fstream::out);
+	fs << "ID,Vehicle Name,Category,Modifications,Model name\n";
 	for (const Vehicle vehicle : vehicleList) {
 		fs << vehicle.vehicleModelId << ','
 				<< removeQuotes(vehicle.vehicleName) << ','
