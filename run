@@ -1,6 +1,6 @@
 mkdir -p input
 mkdir -p output
 curl https://wiki.sa-mp.com/wiki/Vehicles:All > input/samp_wiki_vehicles.html
-g++ main.cpp
+g++ main.cpp --std=c++17
 ./a.out < input/samp_wiki_vehicles.html
 rm a.out
